@@ -4,12 +4,12 @@ Jeff G., assigned mentor, teaching Simulink basics.
 
 Project.slx contains completed assignments.
 
-**THi**s project was implemented in MATLAB R2024a.
+This project was implemented in MATLAB R2024a.
 
 
 ## Assignment 1
 
-Create a MATLAB function block wi**THi**n a subsystem that will take data from a temperature sensor (**TSnsrT** via a simulated Signal Editor block) and control three Boolean signals (**TLow**, **TMid**, and **THi**) according to the following logic:
+Create a MATLAB function block within a subsystem that will take data from a temperature sensor (**TSnsrT** via a simulated Signal Editor block) and control three Boolean signals (**TLow**, **TMid**, and **THi**) according to the following logic:
 
 1. If **TSnsrT** is equal to 100 deg C or lower, then **TLow** shall output high and **TMid**/**THi** shall output low.
 
